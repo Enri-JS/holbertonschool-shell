@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R a+x parent_directory
+chmod -R a+x permissions
