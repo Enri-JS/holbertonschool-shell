@@ -1,0 +1,9 @@
+total 20
+drwxr-xr-x 1 dan04030 dan04030 148 Jun 13 13:04 .
+drwxr-xr-x 1 dan04030 dan04030 114 Jun 12 21:19 ..
+-rwxr--r-- 1 dan04030 dan04030  48 Jun 12 23:54 10-no_more_js
+-rwxr--r-- 1 dan04030 dan04030  32 Jun 12 23:41 12-newest_files
+-rwxr--r-- 1 dan04030 dan04030  40 Jun 12 23:44 6-third_line
+-rwxr--r-- 1 dan04030 dan04030  36 Jun 13 13:04 8-cwd_state
+-rw-r--r-- 1 dan04030 dan04030   0 Jun 13 13:05 ls_cwd_content
+-rw-r--r-- 1 dan04030 dan04030  37 Jun 12 23:39 README.md
