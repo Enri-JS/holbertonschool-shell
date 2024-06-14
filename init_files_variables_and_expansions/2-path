@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd | '.*/action'
+pwd | grep -o '.*/action'
