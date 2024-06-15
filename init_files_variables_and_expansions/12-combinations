@@ -1,0 +1,2 @@
+#!/bin/bash
+first="a"; second="z"; [[ "$first$second" != "oo" ]] && echo "$first$second"
