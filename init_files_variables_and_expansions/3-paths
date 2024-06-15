@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $((NUM_OF_DIRECTORIES))
